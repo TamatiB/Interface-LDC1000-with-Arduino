@@ -3,7 +3,6 @@
 Author: Pelonomi Moiloa
         24 June 2014
 
-
 This code is a check to see whether LDC1000 connections are correct.
 It reads default values from LDC1000 registers
 
